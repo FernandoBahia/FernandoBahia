@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FernandoBahia
+- 👋 Hi, I’m Fernando Bahia
 - 👀 I’m interested in systems development
 - 🌱 I’m currently learning software, web, APIS, and database development
 - 💞️ I’m looking to collaborate on projects and startups
