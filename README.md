@@ -14,10 +14,17 @@
 ###
 
 <p align="left">
+
+
+<p align="left">
   ✨ IT Infrastructure Professional with experience in Networks, Microsoft Azure AD, and related technologies.<br>
-  📚 Graduated in Systems Analysis and Development, with knowledge in OOP and Databases — though my career focus has evolved into Infrastructure, Networks, and Security.<br>
+  🖥️ Skilled in operating systems — especially Linux — for administration, troubleshooting, and automation tasks.<br>
+  ⚙️ I work with automation using Python and Shell scripts, often integrating AI tools to optimize workflows and solve complex tasks.<br>
+  📚 Graduated in Systems Analysis and Development, with background in OOP and Databases, though my focus evolved into Infrastructure, Networks, and Security.<br>
   🎯 Based in Brazil.<br>
   🎲 Always learning and exploring new technologies.
+</p>
+
 </p>
 
 ###
