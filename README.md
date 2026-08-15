@@ -66,16 +66,11 @@
 
 <h3 align="left">☁️ Cloud & Microsoft</h3>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=windows" height="40" alt="Windows" />
-  <img width="12" />
-</div>
+<div align="left"> <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" /> <img width="12" /> <img src="https://skillicons.dev/icons?i=windows" height="40" alt="Windows" /> <img width="12" /> </div>
 
-<p align="left">
-  Microsoft Entra ID (Azure AD) • Microsoft 365 • Intune • Azure • Active Directory
-</p>
+<p align="left"> <strong>Microsoft:</strong> Microsoft Entra ID (Azure AD) • Microsoft 365 • Intune • Azure • Active Directory </p>
+
+<p align="left"> <strong>AWS:</strong> VPC • S3 • EFS • FSx • IAM • CloudTrail </p>
 
 <h3 align="left">🐧 Infrastructure & Networking</h3>
 
