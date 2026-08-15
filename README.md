@@ -60,16 +60,6 @@
   <strong>Cyber Security, Infrastructure and DevOps practices</strong>.
 </p>
 
-<p align="left">
-  Current interests include <strong>Sigma, YARA, Wazuh, Suricata, Sysmon, Docker, Git, GitHub Actions, Python, YAML and CI/CD</strong>.
-</p>
-
-<p align="left">
-  One of my current projects is a <strong>Detection as Code</strong> laboratory, focused on developing,
-  testing, versioning and automatically validating security detection rules through
-  <strong>Git, Docker and CI/CD pipelines</strong>.
-</p>
-
 ---
 
 <h2 align="left">Tech Stack</h2>
