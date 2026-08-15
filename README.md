@@ -9,7 +9,7 @@
 <h2 align="left">About me</h2>
 
 <p align="left">
-  I'm an IT Infrastructure professional focused on <strong>Cyber Security, Cloud, Networking and Security Operations</strong>.
+  I'm an IT Infrastructure professional focused on <strong>Cyber Security, Cloud, Networking and DevSecOps</strong>.
 </p>
 
 <p align="left">
@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-  Currently, I'm expanding my expertise toward <strong>Cyber Security and DevSecOps</strong>, with a particular interest in <strong>Blue Team, Detection Engineering, SIEM, Cloud Security, SASE/SSE and Security Automation</strong>.
+  Currently, I'm expanding my expertise toward <strong>Cyber Security and DevSecOps</strong>, with a particular interest in <strong>Blue Team, Detection Engineering, Cloud Security, Security Automation and Pratics DevSecOps</strong>.
 </p>
 
 <h3 align="left">💻 What I work with</h3>
@@ -186,10 +186,3 @@
 
 ---
 
-<h2 align="left">⚡ Philosophy</h2>
-
-<p align="left">
-  <i>
-    "Build it. Break it. Detect it. Automate it. Secure it."
-  </i>
-</p>
